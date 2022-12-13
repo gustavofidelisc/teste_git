@@ -1,0 +1,6 @@
+#include <stdio.h>
+
+int main(){ 
+	puts("OLÁ GIT");
+	return 0
+}
