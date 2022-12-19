@@ -2,6 +2,7 @@
 
 int main(){ 
 	puts("OLÁ GIT");
-	puts("ATUALIZAÇÃO);
+	puts("ATUALIZAÇÃO1);
+	puts("ATUALIZAÇÃO2);
 	return 0
 }
