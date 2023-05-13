@@ -1,2 +1,2 @@
 # teste_git
-tutorial de como usar o git
+Aprendendo a usar como usar o git
